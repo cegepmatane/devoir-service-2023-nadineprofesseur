@@ -7,7 +7,7 @@ Point d'accès
 > Aucun
 
 ## Réponse
-```
+```xml
 <etudiants>
    <etudiant>
       <id>5</id>
