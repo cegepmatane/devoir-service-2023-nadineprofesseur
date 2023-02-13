@@ -1,4 +1,4 @@
-# Documentation du service
+# 📖 Documentation du service 
 ## Lister les étudiants
 Point d'accès
 > GET https://service.ecoledudimanche.com/etudiants.php  
